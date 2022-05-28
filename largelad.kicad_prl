@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "ffcff3f_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "keyboard.kicad_prl",
+    "filename": "largelad.kicad_prl",
     "version": 3
   },
   "project": {
