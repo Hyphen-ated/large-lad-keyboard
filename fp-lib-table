@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/libraries/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "${KIPRJMOD}/libraries/random-keyboard-parts.pretty-master")(options "")(descr ""))
+)
