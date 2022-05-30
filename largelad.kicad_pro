@@ -55,10 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|489211250|235276250|6d011a38-f58f-40c5-bb71-f7e76e74bfba|e0d43668-1034-419d-9a8c-398c61ff5fad",
-        "silk_over_copper|489211250|235276250|8f6a076d-8087-4c54-b553-e6b90e508ed8|e0d43668-1034-419d-9a8c-398c61ff5fad"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -109,7 +106,7 @@
         "min_clearance": 0.19999999999999998,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.25,
-        "min_hole_to_hole": 0.27499999999999997,
+        "min_hole_to_hole": 0.3,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
         "min_silk_clearance": 0.0,

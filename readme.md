@@ -8,5 +8,6 @@ MCU: WeAct STM32F411CEU6 V3.1 "Blackpill"
 
 Project in progress
 
+146x490 mm
 
 
