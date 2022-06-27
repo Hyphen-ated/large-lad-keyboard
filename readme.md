@@ -5,7 +5,7 @@
 
 Two rows of function keys, 21 keys to the left, and some extras filling in the top right, along with a rotary encoder.
 
-Nobody is selling this keyboard. If you want one you need to place an order at a PCB fabrication house for the PCB and the plate.
+Nobody is selling this keyboard. If you want one you need to place an order at a PCB fabrication house for the PCB (and the plate. Or get the plate made elsewhere.) I got the plate made as a PCB with 1.6mm aluminum; if you want to try FR4 maybe that would work too.
 
 I didn't design a case for this board. I simply attached two pieces of 1/2" square dowel across the top and bottom rows of holes in the plate. If you'd like to design a case I'd be happy to link it here.
 
@@ -26,6 +26,8 @@ If I were to make a rev 2 of this, I would enlarge the stab holes in the plate. 
 Assembly: solder in the diodes and encoder on top, sockets and MCU on bottom. (I used peel-away strips for the MCU to help reduce the vertical size of the overall build. If mounted more conventionally I'm not sure if it would be too tall for 1/2" high "feet" attached to the plate to work properly). Then attach your stabs to the PCB, put the plate on, and put the switches in. The switches are the only thing holding the PCB up. Then figure out how to mount the plate to some kind of case or just use pieces of wood like I did.
 
 It works with QMK firmware, see my fork here: TODO
+
+The matrix is a bit of an unholy nightmare at 12x13. It needs to be much squarer than the layout actually is, because there aren't enough pins otherwise.
 
 Loading firmware: 
 * On the blackpill, hold BOOT and press NRST, then release both
