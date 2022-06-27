@@ -1,6 +1,7 @@
 ## Large Lad Keyboard
 
 ![picture of keyboard](https://i.imgur.com/CQWAD2X.jpg)
+![picture of PCB and plate](https://i.imgur.com/Z27w4RX.jpg)
 148 key hotswap keyboard with a Standard US layout at the core. 
 
 Two rows of function keys, 21 keys to the left, and some extras filling in the top right, along with a rotary encoder.
