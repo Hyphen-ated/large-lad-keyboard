@@ -5,7 +5,7 @@
 
 Two rows of function keys, 21 keys to the left, and some extras filling in the top right, along with a rotary encoder.
 
-Nobody is selling this keyboard. If you want one you need to place an order at a PCB fabrication house for the PCB (and the plate. Or get the plate made elsewhere.) I got the plate made as a PCB with 1.6mm aluminum; if you want to try FR4 maybe that would work too.
+Nobody is selling this keyboard. If you want one you need to place an order at a PCB fabrication house for the PCB (and the plate. Or get the plate made elsewhere.) I got the plate made as a "PCB" with 1.6mm aluminum; if you want to try FR4 maybe that would work too.
 
 I didn't design a case for this board. I simply attached two pieces of 1/2" square dowel across the top and bottom rows of holes in the plate. If you'd like to design a case I'd be happy to link it here.
 
@@ -18,7 +18,7 @@ Other materials you will need:
 * 147x MX switches and keycaps
 * 147x Kailh hotswap sockets
 * 1x set of stabilizers for a full sized keyboard
-* 1x Rotary encoder
+* 1x Rotary encoder, clickable. (The kind used on keyboards.)
 * 1x WeAct STM32F411CEU6 V3.1 "Blackpill" (or a similar board with [the same pinout](/blackpill.png)
 
 If I were to make a rev 2 of this, I would enlarge the stab holes in the plate. I had a rough time getting it to fit and I needed to file down a few edges in the plate. I also intended the plate to have (black) soldermask on top, but I messed that up so the top is bare aluminum right now. (The plate also has a few plated holes in it that don't do anything. This was recommended to me as a way to make PCB fab houses less likely to reject the design for not looking like a PCB. I'm not sure why a business would want to not take someone's money in this way, but whatever.)
