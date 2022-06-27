@@ -6,7 +6,7 @@
 
 Two rows of function keys, 21 keys to the left, and some extras filling in the top right, along with a rotary encoder.
 
-Nobody is selling this keyboard. If you want one you need to place an order at a PCB fabrication house for the PCB (and the plate. Or get the plate made elsewhere.) I got the plate made as a "PCB" with 1.6mm aluminum; if you want to try FR4 maybe that would work too.
+Nobody is selling this keyboard. KiCad project files are in this repo. If you want one you need to place an order at a PCB fabrication house for the PCB (and the plate. Or get the plate made elsewhere.) I got the plate made as a "PCB" with 1.6mm aluminum; if you want to try FR4 maybe that would work too.
 
 I didn't design a case for this board. I simply attached two pieces of 1/2" square dowel across the top and bottom rows of holes in the plate. If you'd like to design a case I'd be happy to link it here.
 
