@@ -35,3 +35,5 @@ Loading firmware:
 * Open STM32CubeProgrammer. Make sure it's connected to the blackpill on the right under "usb configuration"
 * Click "open file" and load the QMK hex file built for this board
 * Click "download"
+
+Shoutouts to [ai03](https://wiki.ai03.com/books/pcb-design/page/pcb-guide-part-1---preparations), https://github.com/piit79/Kicad-STM32, https://github.com/chgray/daprice-keyswitches, https://github.com/daprice/keyswitches.pretty
