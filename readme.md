@@ -28,7 +28,7 @@ Assembly: solder in the diodes and encoder on top, sockets and MCU on bottom. (I
 
 It works with QMK firmware, see my fork here: TODO
 
-The matrix is a bit of an unholy nightmare at 12x13. It needs to be much squarer than the layout actually is, because there aren't enough pins otherwise.
+The matrix is a bit of an [unholy nightmare](/keyboard-layout-colors.png) at 12x13. It needs to be much squarer than the layout actually is, because there aren't enough pins otherwise.
 
 Loading firmware: 
 * On the blackpill, hold BOOT and press NRST, then release both
