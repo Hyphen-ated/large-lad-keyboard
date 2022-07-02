@@ -24,7 +24,7 @@ Other materials you will need:
 
 If I were to make a rev 2 of this, I would enlarge the stab holes in the plate. I had a rough time getting it to fit and I needed to file down a few edges in the plate. I also intended the plate to have (black) soldermask on top, but I messed that up so the top is bare aluminum right now. (The plate also has a few plated holes in it that don't do anything. This was recommended to me as a way to make PCB fab houses less likely to reject the design for not looking like a PCB. I'm not sure why a business would want to not take someone's money in this way, but whatever.)
 
-Assembly: solder in the diodes and encoder on top, sockets and MCU on bottom. (I used peel-away strips for the MCU to help reduce the vertical size of the overall build. If mounted more conventionally I'm not sure if it would be too tall for 1/2" high "feet" attached to the plate to work properly). Then attach your stabs to the PCB, put the plate on, and put the switches in. The switches are the only thing holding the PCB up. Then figure out how to mount the plate to some kind of case or just use pieces of wood like I did.
+Assembly: solder in the diodes and encoder on top, sockets and MCU on bottom. (I used peel-away strips for the MCU to help reduce the vertical size of the overall build while having the MCU socketed for easy removal.) Then attach your stabs to the PCB, put the plate on, and put the switches in. The switches are the only thing holding the PCB up. Then figure out how to mount the plate to some kind of case or just use pieces of wood like I did.
 
 It works with QMK firmware, see my fork here: TODO
 
