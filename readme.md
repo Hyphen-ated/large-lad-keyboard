@@ -26,7 +26,7 @@ If I were to make a rev 2 of this, I would enlarge the stab holes in the plate. 
 
 Assembly: solder in the diodes and encoder on top, sockets and MCU on bottom. (I used peel-away strips for the MCU to help reduce the vertical size of the overall build while having the MCU socketed for easy removal.) Then attach your stabs to the PCB, put the plate on, and put the switches in. The switches are the only thing holding the PCB up. Then figure out how to mount the plate to some kind of case or just use pieces of wood like I did.
 
-It works with QMK firmware, see my fork here: TODO
+It works with QMK firmware, see my fork here: https://github.com/Hyphen-ated/qmk_firmware
 
 The matrix is a bit of an [unholy nightmare](/keyboard-layout-colors.png) at 12x13. It needs to be much squarer than the layout actually is, because there aren't enough pins otherwise.
 
